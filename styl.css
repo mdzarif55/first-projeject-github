@@ -1,4 +1,6 @@
 div{
     background-color: aqua;
     text-align: justify;
+    padding: 10px;
+    margin-top: 10px;
 }
